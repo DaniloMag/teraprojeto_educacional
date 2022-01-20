@@ -33,7 +33,7 @@ h2{
   .planner {
     align-items: center;
     background: #f4f4f4;
-    border: 25px solid;
+    border: 5px solid;
     border-image: url('/pages/img/borda2.png') 30 round;
     font-size: 1.2em;
     padding: 35px;
